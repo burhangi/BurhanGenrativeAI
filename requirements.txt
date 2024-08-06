@@ -1,0 +1,7 @@
+streamlit
+requests
+huggingface-hu
+transformers
+numpy
+pandas
+openai
